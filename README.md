@@ -16,42 +16,6 @@ This repository contains the official documentation site for the Journal of Kine
 
 The documentation is available at: [https://wskwellness.github.io/jkw-guide/](https://wskwellness.github.io/jkw-guide/)
 
-## Technical Information
-
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
-
-### Installation
-
-```bash
-npm install
-```
-
-### Local Development
-
-```bash
-npm start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```bash
-npm run build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-The site is automatically deployed to GitHub Pages when changes are pushed to the main branch, using GitHub Actions.
-
-If you need to manually deploy:
-
-```bash
-GIT_USER=<Your GitHub username> npm run deploy
-```
-
 ## Contact
 
 For questions about the JKW documentation or submission process, please contact:
