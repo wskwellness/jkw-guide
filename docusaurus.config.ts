@@ -122,7 +122,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/wskw/jkw-guide',
+              href: 'https://github.com/wskwellness/jkw-guide',
             },
           ],
         },
