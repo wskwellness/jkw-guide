@@ -82,4 +82,8 @@ For further guidance on manuscript preparation:
 
 ## Need Help?
 
-If you need assistance with the templates or have questions about formatting your manuscript, please contact the JKW editorial team at [editor@jkw-journal.org](mailto:editor@jkw-journal.org).
+If you need assistance with the templates or have questions about formatting your manuscript, please contact:
+
+Ovande Furtado, Jr., Ph.D.  | JKW Editor-in-Chief  
+California State University, Northridge  
+[ovandef@csun.edu](mailto:ovandef@csun.edu)
