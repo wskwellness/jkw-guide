@@ -159,4 +159,8 @@ For research involving human subjects, you must include an IRB approval statemen
 
 ## Additional Questions
 
-If you have questions that aren't addressed here, please contact the JKW editorial team at [editor@jkw-journal.org](mailto:editor@jkw-journal.org).
+If you have questions about the submission process or requirements, please contact:
+
+Ovande Furtado, Jr., Ph.D.  | JKW Editor-in-Chief  
+California State University, Northridge  
+[ovandef@csun.edu](mailto:ovandef@csun.edu)
