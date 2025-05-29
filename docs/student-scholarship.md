@@ -50,7 +50,7 @@ Your manuscript submission must include a separate cover page with the following
 9. Statement that indicates the research is original and has not been published elsewhere
 10. **A statement that indicates the first author is a student (undergraduate or graduate) and identifies which of the other authors has a terminal degree and endorses the manuscript**
 
-[Download Cover Page Template](http://www.wskw.org/wp-content/uploads/2023/05/APA-7th-edition-template-cover-jkw.docx)
+[Download Cover Page Template](/files/APA-7th-edition-template-cover-jkw.docx)
 
 ### Main Manuscript
 
@@ -68,7 +68,7 @@ The main manuscript should include:
 
 **Length**: 10-page maximum, excluding references, cover page, and abstract.
 
-[Download Manuscript Template](http://www.wskw.org/wp-content/uploads/2023/04/APA-7th-edition-template-jkw.docx)
+[Download Manuscript Template](/files/APA-7th-edition-template-jkw.docx)
 
 ## Publication Process
 

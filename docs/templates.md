@@ -21,7 +21,7 @@ The cover page template includes all the required elements for your submission's
 - Fields for funding, acknowledgements, and conflict of interest statements
 - Statement of originality
 
-[Download Cover Page Template](http://www.wskw.org/wp-content/uploads/2023/05/APA-7th-edition-template-cover-jkw.docx)
+[Download Cover Page Template](/files/APA-7th-edition-template-cover-jkw.docx)
 
 ### Manuscript Template
 
@@ -33,7 +33,7 @@ The manuscript template is pre-formatted according to APA style guidelines and i
 - References section
 - Properly formatted page numbers, margins, and font settings
 
-[Download Manuscript Template](http://www.wskw.org/wp-content/uploads/2023/04/APA-7th-edition-template-jkw.docx)
+[Download Manuscript Template](/files/APA-7th-edition-template-jkw.docx)
 
 ## How to Use the Templates
 
@@ -77,8 +77,8 @@ If you encounter issues with the templates:
 
 For further guidance on manuscript preparation:
 
-- [APA Style Guide](/docs/apa-style-guide) - Overview of APA formatting requirements
-- [Submission Guidelines](/docs/submission-guidelines) - Complete submission requirements for JKW
+- [APA Style Guide](/apa-style-guide) - Overview of APA formatting requirements
+- [Submission Guidelines](/submission-guidelines) - Complete submission requirements for JKW
 
 ## Need Help?
 

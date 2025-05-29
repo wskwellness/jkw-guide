@@ -11,7 +11,7 @@ const config: Config = {
   url: 'https://wskwellness.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/jkw-guide/',
+  baseUrl: process.env.NODE_ENV === 'development' ? '/' : '/jkw-guide/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -40,6 +40,8 @@ const config: Config = {
           editUrl:
             'https://github.com/wskw/jkw-guide/tree/main/',
           routeBasePath: '/',
+          sidebarCollapsible: true,
+          sidebarCollapsed: false,
         },
         blog: false,
         theme: {

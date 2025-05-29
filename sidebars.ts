@@ -15,7 +15,7 @@ const sidebars: SidebarsConfig = {
   jkwSidebar: [
     {
       type: 'doc',
-      id: 'intro',
+      id: 'index',
       label: 'Overview',
     },
     {

@@ -41,7 +41,7 @@ Your manuscript submission must include a separate cover page with the following
 8. Conflict of interest (if any)
 9. Statement that indicates the research is original and has not been published elsewhere
 
-[Download Cover Page Template](http://www.wskw.org/wp-content/uploads/2023/05/APA-7th-edition-template-cover-jkw.docx)
+[Download Cover Page Template](/files/APA-7th-edition-template-cover-jkw.docx)
 
 ### Main Manuscript
 
@@ -59,7 +59,7 @@ The main manuscript should include:
 
 **Length**: 15-page maximum, excluding references, cover page, and abstract.
 
-[Download Manuscript Template](http://www.wskw.org/wp-content/uploads/2023/04/APA-7th-edition-template-jkw.docx)
+[Download Manuscript Template](/files/APA-7th-edition-template-jkw.docx)
 
 ## Publication Process
 

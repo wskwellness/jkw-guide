@@ -13,7 +13,7 @@ The JKW consists of (a) **Article Manuscripts** - scholarly papers based on orig
 2. Microsoft Word submission.
 3. Follow APA style, current edition.
    1. [Click here for a guide](https://www.scribbr.com/apa-style/format/)
-   2. [Click here for a template](https://docs.google.com/document/d/1ViSt0FWPqStwffY1XUVMuFCVALCqSJn6/edit?usp=sharing&ouid=106785856966921339054&rtpof=true&sd=true)
+   2. [Click here for a template](/files/APA-7th-edition-template-jkw.docx)
    3. [Click here for sample papers](https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers)
 
 ## 01. Article Manuscripts
@@ -21,24 +21,24 @@ The JKW consists of (a) **Article Manuscripts** - scholarly papers based on orig
 Submitted manuscripts will be subject to a blind peer-review process. Papers for consideration should not have been published elsewhere. **WSKW Membership is not required.** As part of the peer review, the following areas will be evaluated: (a) original contribution, (b) clear purpose, (c) clear methodology or logical arguments, (d) sound data analyses or supported arguments, (e) conclusion and implications, (f) accurate grammar, tone, use of English, (g) sound writing (sentence/paragraph structure), (h) use of current [APA Style](https://www.apastyle.org/), and (i) relevance of tables and figures.
 
 > **Separate Cover Page:** (1) Title of paper, (2) Name of Author(s) and order of contribution, (2) Author(s) affiliation, (3) Date of submission, (4) Author contact information (Name, address, phone, e-mail, and ORCID), (5) Funding (if any), (6) Acknowledgements (if any), (7) Conflict of interest (if any), and (8) Statement that indicates the research is original. The paper has not been published elsewhere.  
-> [Click here for a template](http://www.wskw.org/wp-content/uploads/2023/05/APA-7th-edition-template-cover-jkw.docx)
+> [Click here for a template](/files/APA-7th-edition-template-cover-jkw.docx)
 >
 > **Manuscript**: (1) Title of paper (**no authors listed**), (2) Abstract (250 words or less), (3) Main heading order: Introduction; Methods or headings to fit a descriptive-type paper; Results or headings to fit a descriptive type paper; Discussion; Conclusion, and (4) References.  
 > Length: 15-page maximum, excluding references, cover page, and abstract.  
 > *Note: All accepted papers will be published online shortly after being accepted.*  
-> [Click here for a template](http://www.wskw.org/wp-content/uploads/2023/04/APA-7th-edition-template-jkw.docx)
+> [Click here for a template](/files/APA-7th-edition-template-jkw.docx)
 
 ## 02. Article Manuscripts (Student Scholarship)
 
 The Special Student Edition aims to feature student (undergraduate and graduate) scholarly work. A student must be **the first author of the manuscript submission. It is also mandatory that the manuscript be endorsed by someone holding a terminal degree, and the endorsee must be included as an author.** Submitted manuscripts will be subject to a blind peer-review process. Papers for consideration should not have been published elsewhere. **WSKW Membership is not required.** As part of the peer review, the following areas will be evaluated: (a) original contribution, (b) clear purpose, (c) clear methodology or logical arguments, (d) sound data analyses or supported arguments, (e) conclusion and implications, (f) accurate grammar, tone, use of English, (g) sound writing (sentence/paragraph structure), (h) use of current [APA Style](https://www.apastyle.org/), and (i) relevance of tables and/or figures.
 
 > **Separate Cover Page**: (1) Title of paper, (2) Name of Author(s) and order of contribution, (2) Author(s) affiliation, (3) Date of submission, (4) Author contact information (Name, address, phone, e-mail, and ORCID), (5) Funding (if any), (6) Acknowledgements (if any), (7) Conflict of interest (if any), (8) Statement that indicates the research is original, and the paper has not been published elsewhere, and (9) A statement that indicates the first author is a student (undergraduate or graduate) and identify which of the other authors has a terminal degree and endorses the manuscript.  
-> [Click here for a template](http://www.wskw.org/wp-content/uploads/2023/05/APA-7th-edition-template-cover-jkw.docx)
+> [Click here for a template](/files/APA-7th-edition-template-cover-jkw.docx)
 >
 > **Manuscript**: (1) Title of paper (no authors listed), (2) Abstract (250 words or less), (3) Main heading order: Introduction; Methods or headings to fit a descriptive-type paper; Results or headings to fit a descriptive type paper; Discussion; Conclusion, and (4) References.  
 > Length: 10-page maximum, excluding references, cover page, and abstract.  
 > *Note: All accepted papers will be published online shortly after being accepted.*  
-> [Click here for a template](http://www.wskw.org/wp-content/uploads/2023/04/APA-7th-edition-template-jkw.docx)
+> [Click here for a template](/files/APA-7th-edition-template-jkw.docx)
 
 ## 03. John Massengale Paper
 

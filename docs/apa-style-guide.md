@@ -114,7 +114,7 @@ For more detailed guidance on APA style, please consult these resources:
 
 The Journal of Kinesiology and Wellness provides templates that are already formatted according to APA style guidelines:
 
-- [Cover Page Template](http://www.wskw.org/wp-content/uploads/2023/05/APA-7th-edition-template-cover-jkw.docx)
-- [Manuscript Template](http://www.wskw.org/wp-content/uploads/2023/04/APA-7th-edition-template-jkw.docx)
+- [Cover Page Template](/files/APA-7th-edition-template-cover-jkw.docx)
+- [Manuscript Template](/files/APA-7th-edition-template-jkw.docx)
 
 Using these templates can help ensure that your manuscript meets the formatting requirements of both APA style and the Journal of Kinesiology and Wellness.

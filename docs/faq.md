@@ -50,7 +50,7 @@ Article Manuscripts should be a maximum of 15 pages, excluding references, cover
 <details>
 <summary>Do I need to include a cover page?</summary>
 
-Yes, all submissions must include a separate cover page with the required information. Please use the [Cover Page Template](http://www.wskw.org/wp-content/uploads/2023/05/APA-7th-edition-template-cover-jkw.docx).
+Yes, all submissions must include a separate cover page with the required information. Please use the [Download Cover Page Template](/files/APA-7th-edition-template-cover-jkw.docx).
 </details>
 
 <details>
@@ -62,7 +62,7 @@ The abstract should be 250 words or less and include the research problem, parti
 <details>
 <summary>How should I format my references?</summary>
 
-All references should follow the current edition of APA style. Please see our [APA Style Guide](/docs/apa-style-guide) for details.
+All references should follow the current edition of APA style. Please see our [APA Style Guide](/apa-style-guide) for details.
 </details>
 
 ## Review Process
