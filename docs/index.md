@@ -25,7 +25,7 @@ The JKW publishes several types of scholarly works:
 To get started with your submission:
 
 1. Review the [Submission Guidelines](submission-guidelines) for detailed information on formatting and requirements
-2. Prepare your manuscript according to the APA style guidelines
+2. Prepare your manuscript according to the current APA style guidelines
 3. Ensure all required components (cover page, abstract, etc.) are included
 4. Submit your manuscript through the official submission process
 
