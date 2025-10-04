@@ -3,6 +3,11 @@ sidebar_position: 2
 title: Submission Guidelines
 ---
 
+<details>
+<summary>Make a submission</summary>
+[Make a submission by clicking here.](https://jkw.wskw.org/index.php/jkw/about/submissions)
+</details>
+
 The JKW accepts submissions on a rolling basis. As an online journal, the JKW publishes papers after they are accepted rather than waiting for a full volume to be completed before publishing. Full volumes are compiled and published once a year in January.
 
 The JKW consists of (a) **Article Manuscripts** - scholarly papers based on original research (experimental, qualitative, descriptive, and historical), (b) **Article Manuscripts (Student Scholarship)** - reserved for student-led scholarly papers based on original research, (c) **John Massengale Paper -** invitation-only John Massengale Papers, and (d) the **WSKW Chronicles -** which include conference materials.
