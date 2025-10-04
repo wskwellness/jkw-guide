@@ -78,6 +78,11 @@ const config: Config = {
       },
       items: [
         {
+          href: 'https://jkw.wskw.org/index.php/jkw/about/submissions',
+          label: 'Make a Submission',
+          position: 'right',
+        },
+        {
           href: 'https://jkw.wskw.org/index.php/jkw/index',
           label: 'JKW Website',
           position: 'right',
