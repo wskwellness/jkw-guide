@@ -1,0 +1,27 @@
+{
+  "id": "massengale-papers",
+  "title": "John Massengale Papers",
+  "description": "Formally known as the Western Society Review Papers, the John Massengale Paper reflects Dr. Massengale's outstanding contributions to the Western Society for Kinesiology and Wellness (WSKW) organization.",
+  "source": "@site/docs/massengale-papers.md",
+  "sourceDirName": ".",
+  "slug": "/massengale-papers",
+  "permalink": "/jkw-guide/massengale-papers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "John Massengale Papers"
+  },
+  "sidebar": "jkwSidebar",
+  "previous": {
+    "title": "Student Scholarship",
+    "permalink": "/jkw-guide/student-scholarship"
+  },
+  "next": {
+    "title": "WSKW Chronicles",
+    "permalink": "/jkw-guide/wskw-chronicles"
+  }
+}

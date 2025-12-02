@@ -1,0 +1,27 @@
+{
+  "id": "submission-guidelines",
+  "title": "Submission Guidelines",
+  "description": "Make a submission by clicking here.",
+  "source": "@site/docs/submission-guidelines.md",
+  "sourceDirName": ".",
+  "slug": "/submission-guidelines",
+  "permalink": "/jkw-guide/submission-guidelines",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Submission Guidelines"
+  },
+  "sidebar": "jkwSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/jkw-guide/"
+  },
+  "next": {
+    "title": "Article Manuscripts",
+    "permalink": "/jkw-guide/article-manuscripts"
+  }
+}

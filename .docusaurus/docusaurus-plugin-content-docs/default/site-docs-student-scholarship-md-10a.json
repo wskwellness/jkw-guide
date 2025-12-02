@@ -1,0 +1,27 @@
+{
+  "id": "student-scholarship",
+  "title": "Student Scholarship",
+  "description": "The Special Student Edition of the Journal of Kinesiology and Wellness aims to feature student (undergraduate and graduate) scholarly work. This section provides a valuable opportunity for students to publish their research with proper guidance from established scholars.",
+  "source": "@site/docs/student-scholarship.md",
+  "sourceDirName": ".",
+  "slug": "/student-scholarship",
+  "permalink": "/jkw-guide/student-scholarship",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Student Scholarship"
+  },
+  "sidebar": "jkwSidebar",
+  "previous": {
+    "title": "Article Manuscripts",
+    "permalink": "/jkw-guide/article-manuscripts"
+  },
+  "next": {
+    "title": "John Massengale Papers",
+    "permalink": "/jkw-guide/massengale-papers"
+  }
+}

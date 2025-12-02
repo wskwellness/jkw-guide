@@ -1,0 +1,23 @@
+{
+  "id": "faq",
+  "title": "FAQ",
+  "description": "This page addresses common questions about submitting to and publishing with the Journal of Kinesiology and Wellness (JKW).",
+  "source": "@site/docs/faq.md",
+  "sourceDirName": ".",
+  "slug": "/faq",
+  "permalink": "/jkw-guide/faq",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "title": "FAQ"
+  },
+  "sidebar": "jkwSidebar",
+  "previous": {
+    "title": "Templates",
+    "permalink": "/jkw-guide/templates"
+  }
+}

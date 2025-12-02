@@ -1,0 +1,27 @@
+{
+  "id": "apa-style-guide",
+  "title": "APA Style Guide",
+  "description": "The Journal of Kinesiology and Wellness (JKW) requires all manuscripts to follow the current edition of the American Psychological Association (APA) style guidelines. This page provides a brief overview of key APA style elements, but authors should consult the official APA Publication Manual for comprehensive guidance.",
+  "source": "@site/docs/apa-style-guide.md",
+  "sourceDirName": ".",
+  "slug": "/apa-style-guide",
+  "permalink": "/jkw-guide/apa-style-guide",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "APA Style Guide"
+  },
+  "sidebar": "jkwSidebar",
+  "previous": {
+    "title": "WSKW Chronicles",
+    "permalink": "/jkw-guide/wskw-chronicles"
+  },
+  "next": {
+    "title": "Templates",
+    "permalink": "/jkw-guide/templates"
+  }
+}

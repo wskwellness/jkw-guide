@@ -1,0 +1,27 @@
+{
+  "id": "wskw-chronicles",
+  "title": "WSKW Chronicles",
+  "description": "The WSKW Chronicles section of the Journal of Kinesiology and Wellness (JKW) includes conference materials and proceedings from the Western Society for Kinesiology and Wellness (WSKW) annual conferences.",
+  "source": "@site/docs/wskw-chronicles.md",
+  "sourceDirName": ".",
+  "slug": "/wskw-chronicles",
+  "permalink": "/jkw-guide/wskw-chronicles",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "WSKW Chronicles"
+  },
+  "sidebar": "jkwSidebar",
+  "previous": {
+    "title": "John Massengale Papers",
+    "permalink": "/jkw-guide/massengale-papers"
+  },
+  "next": {
+    "title": "APA Style Guide",
+    "permalink": "/jkw-guide/apa-style-guide"
+  }
+}
