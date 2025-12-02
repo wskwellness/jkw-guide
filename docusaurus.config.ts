@@ -15,7 +15,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'wskw', // Usually your GitHub org/user name.
+  organizationName: 'wskwellness', // Usually your GitHub org/user name.
   projectName: 'jkw-guide', // Usually your repo name.
 
   onBrokenLinks: 'warn',

@@ -11,6 +11,10 @@ Welcome to the Journal of Kinesiology and Wellness (JKW) documentation site. Thi
 
 The Journal of Kinesiology and Wellness (JKW) is the official publication of the Western Society for Kinesiology and Wellness (WSKW). The JKW accepts submissions on a rolling basis. As an online journal, the JKW publishes papers after they are accepted rather than waiting for a full volume to be completed before publishing. Full volumes are compiled and published once a year in January.
 
+## Scope and Focus
+
+The Journal of Kinesiology & Wellness (JKW) is an anonymous peer-reviewed online journal that covers issues in physical education, physical activity & health promotion, wellness, biomechanics, motor behavior, exercise physiology, sport, and dance. The JKW is a publication of the Western Society for Kinesiology and Wellness (WSKW).
+
 ## Types of Publications
 
 The JKW publishes several types of scholarly works:
