@@ -59,11 +59,37 @@ Basic formats:
 
 ### Tables and Figures
 
-- Each table/figure should be numbered and have a descriptive title
-- Tables have their titles above the table
-- Figures have their captions below the figure
-- All tables and figures should be referenced in the text
-- Tables and figures should be placed after references or submitted as separate files
+All tables and figures must be **submitted as separate files** — not embedded in the main manuscript. All tables and figures must be referenced by number within the manuscript text.
+
+#### Tables
+
+Tables are submitted in a **single Word (.docx) file** containing all tables. APA 7th edition table format:
+
+- **Table number**: Bold italic, above the table, on its own line (e.g., *Table 1*)
+- **Title**: Italicized, title case, immediately below the table number, on its own line (e.g., *Descriptive Statistics for All Study Variables*)
+- **Body**: Use horizontal rules only — one below the column headers and one at the bottom. No vertical lines.
+- **Note**: Optional. Placed below the table. Begin with *Note.* in italics, followed by a period, then the note text in regular type. Use general notes for overall table information, specific notes (superscript lowercase letters) for individual entries, and probability notes for asterisks.
+
+#### Figures
+
+Each figure is submitted as a **separate image file** with one file per figure. APA 7th edition figure format:
+
+- **Figure number**: Bold, on its own line in the manuscript caption list (e.g., **Figure 1**)
+- **Title**: Italicized, on the same line immediately following the figure number, ending with a period (e.g., **Figure 1** *Mean Scores Across Experimental Conditions.*)
+- **Caption**: Additional explanatory text, in plain type, may follow the title on the same or subsequent line
+- **Note**: If needed, begin with *Note.* in italics, consistent with table note format
+
+Figure captions are listed in the **main manuscript** at the end, after the references — not embedded in the image file itself.
+
+**Accepted figure file formats and minimum resolution:**
+
+| Format | Best use | Minimum DPI |
+|--------|----------|-------------|
+| TIFF (.tif) | All types; photographs (preferred) | 300 dpi (photos); 600 dpi (line art/combo) |
+| PNG (.png) | Graphs, charts, line art | 600 dpi |
+| JPEG (.jpg) | Photographs only (highest quality setting) | 300 dpi |
+
+Images downloaded from websites (72 dpi) or exported at default settings from PowerPoint do not meet publication standards.
 
 ## References
 

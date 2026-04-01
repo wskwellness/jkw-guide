@@ -19,29 +19,81 @@ The JKW consists of (a) **Article Manuscripts** - scholarly papers based on orig
    2. [Click here for a template](/files/APA-7th-edition-template-jkw.docx)
    3. [Click here for sample papers](https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers)
 
+## Tables and Figures Submission Requirements
+
+### Tables
+
+All tables must be submitted as a **separate Microsoft Word (.docx) file**. Do not embed tables within the main manuscript. The tables file must follow APA 7th edition formatting:
+
+- Each table must have a **number** (e.g., *Table 1*, *Table 2*) in bold italic, placed above the table on its own line.
+- Immediately below the table number, include a **descriptive title** in italics, in title case, on its own line (e.g., *Descriptive Statistics for All Study Variables*).
+- A **note** may appear below the table when needed to explain abbreviations, symbols, or provide additional context. Begin with the word *Note.* in italics, followed by a period, then the note text in regular typeface.
+- Tables should use only horizontal rules (no vertical lines) — one rule below the column headers and one at the bottom of the table.
+- All tables must be referenced by number in the main manuscript text (e.g., "as shown in Table 1").
+
+### Figures (Graphs, Charts, and Images)
+
+Each figure must be submitted as a **separate image file** — one file per figure. Do not embed figures within the main manuscript Word document.
+
+**Recommended file formats (in order of preference):**
+
+| Format | Best use | Notes |
+|--------|----------|-------|
+| **TIFF** (.tif) | All figure types; photographs | Gold standard for print publication; lossless; preferred by most publishers |
+| **PNG** (.png) | Graphs, charts, line art, figures with text | Lossless compression; no artifacts; ideal when the figure was digitally created |
+| **JPEG** (.jpg) | Photographs only | Acceptable only when TIFF is unavailable; save at highest quality (lowest compression) setting |
+
+> **Why not JPEG for graphs?** JPEG compression introduces visual artifacts around sharp edges and text, which significantly degrades the quality of charts, graphs, and line drawings. TIFF or PNG are strongly preferred for these figure types.
+
+**Minimum resolution (DPI) requirements:**
+
+| Figure type | Minimum DPI |
+|-------------|-------------|
+| Photographs / halftones (color or grayscale) | 300 dpi |
+| Graphs, charts, line art (black & white) | 600 dpi |
+| Combination figures (line art + photograph) | 600 dpi |
+
+Resolution must be measured at the **final printed size**, not at a reduced preview size. Images downloaded from websites (typically 72 dpi) are not acceptable for publication. Figures exported directly from PowerPoint are also generally not acceptable due to insufficient default export resolution.
+
+**Figure captions** must be included in the main manuscript (not in the image file itself), listed sequentially at the end of the manuscript, after the references. Each caption must follow APA format:
+
+- The figure number appears in bold (e.g., **Figure 1**)
+- Immediately after the figure number (on the same line), include the figure title in italics, followed by a period
+- A plain-text description or note may follow if needed
+
+**File naming convention:** Name each figure file with the manuscript identifier and figure number (e.g., `figure1.tif`, `figure2.png`).
+
 ## 01. Article Manuscripts
 
 Submitted manuscripts will be subject to a blind peer-review process. Papers for consideration should not have been published elsewhere. **WSKW Membership is not required.** As part of the peer review, the following areas will be evaluated: (a) original contribution, (b) clear purpose, (c) clear methodology or logical arguments, (d) sound data analyses or supported arguments, (e) conclusion and implications, (f) accurate grammar, tone, use of English, (g) sound writing (sentence/paragraph structure), (h) use of current [APA Style](https://www.apastyle.org/), and (i) relevance of tables and figures.
 
-> **Separate Cover Page:** (1) Title of paper, (2) Name of Author(s) and order of contribution, (2) Author(s) affiliation, (3) Date of submission, (4) Author contact information (Name, address, phone, e-mail, and ORCID), (5) Funding (if any), (6) Acknowledgements (if any), (7) Conflict of interest (if any), and (8) Statement that indicates the research is original. The paper has not been published elsewhere.  
+> **Separate Cover Page:** (1) Title of paper, (2) Name of Author(s) and order of contribution, (2) Author(s) affiliation, (3) Date of submission, (4) Author contact information (Name, address, phone, e-mail, and ORCID), (5) Funding (if any), (6) Acknowledgements (if any), (7) Conflict of interest (if any), and (8) Statement that indicates the research is original. The paper has not been published elsewhere.
 > [Click here for a template](/files/APA-7th-edition-template-cover-jkw.docx)
 >
-> **Manuscript**: (1) Title of paper (**no authors listed**), (2) Abstract (250 words or less), (3) Main heading order: Introduction; Methods or headings to fit a descriptive-type paper; Results or headings to fit a descriptive type paper; Discussion; Conclusion, and (4) References.  
-> Length: 15-page maximum, excluding references, cover page, and abstract.  
-> *Note: All accepted papers will be published online shortly after being accepted.*  
+> **Manuscript**: (1) Title of paper (**no authors listed**), (2) Abstract (250 words or less), (3) Main heading order: Introduction; Methods or headings to fit a descriptive-type paper; Results or headings to fit a descriptive type paper; Discussion; Conclusion, and (4) References. Figure captions should be listed at the end of the manuscript after the references.
+> Length: 15-page maximum, excluding references, cover page, and abstract.
+> *Note: All accepted papers will be published online shortly after being accepted.*
 > [Click here for a template](/files/APA-7th-edition-template-jkw.docx)
+>
+> **Separate Tables File**: A single Word (.docx) file containing all tables with APA-formatted captions. See the [Tables and Figures Submission Requirements](#tables-and-figures-submission-requirements) section above.
+>
+> **Separate Figure Files**: One image file per figure (TIFF preferred; PNG or high-quality JPEG accepted). See the [Tables and Figures Submission Requirements](#tables-and-figures-submission-requirements) section above.
 
 ## 02. Article Manuscripts (Student Scholarship)
 
 The Special Student Edition aims to feature student (undergraduate and graduate) scholarly work. A student must be **the first author of the manuscript submission. It is also mandatory that the manuscript be endorsed by someone holding a terminal degree, and the endorsee must be included as an author.** Submitted manuscripts will be subject to a blind peer-review process. Papers for consideration should not have been published elsewhere. **WSKW Membership is not required.** As part of the peer review, the following areas will be evaluated: (a) original contribution, (b) clear purpose, (c) clear methodology or logical arguments, (d) sound data analyses or supported arguments, (e) conclusion and implications, (f) accurate grammar, tone, use of English, (g) sound writing (sentence/paragraph structure), (h) use of current [APA Style](https://www.apastyle.org/), and (i) relevance of tables and/or figures.
 
-> **Separate Cover Page**: (1) Title of paper, (2) Name of Author(s) and order of contribution, (2) Author(s) affiliation, (3) Date of submission, (4) Author contact information (Name, address, phone, e-mail, and ORCID), (5) Funding (if any), (6) Acknowledgements (if any), (7) Conflict of interest (if any), (8) Statement that indicates the research is original, and the paper has not been published elsewhere, and (9) A statement that indicates the first author is a student (undergraduate or graduate) and identify which of the other authors has a terminal degree and endorses the manuscript.  
+> **Separate Cover Page**: (1) Title of paper, (2) Name of Author(s) and order of contribution, (2) Author(s) affiliation, (3) Date of submission, (4) Author contact information (Name, address, phone, e-mail, and ORCID), (5) Funding (if any), (6) Acknowledgements (if any), (7) Conflict of interest (if any), (8) Statement that indicates the research is original, and the paper has not been published elsewhere, and (9) A statement that indicates the first author is a student (undergraduate or graduate) and identify which of the other authors has a terminal degree and endorses the manuscript.
 > [Click here for a template](/files/APA-7th-edition-template-cover-jkw.docx)
 >
-> **Manuscript**: (1) Title of paper (no authors listed), (2) Abstract (250 words or less), (3) Main heading order: Introduction; Methods or headings to fit a descriptive-type paper; Results or headings to fit a descriptive type paper; Discussion; Conclusion, and (4) References.  
-> Length: 10-page maximum, excluding references, cover page, and abstract.  
-> *Note: All accepted papers will be published online shortly after being accepted.*  
+> **Manuscript**: (1) Title of paper (no authors listed), (2) Abstract (250 words or less), (3) Main heading order: Introduction; Methods or headings to fit a descriptive-type paper; Results or headings to fit a descriptive type paper; Discussion; Conclusion, and (4) References. Figure captions should be listed at the end of the manuscript after the references.
+> Length: 10-page maximum, excluding references, cover page, and abstract.
+> *Note: All accepted papers will be published online shortly after being accepted.*
 > [Click here for a template](/files/APA-7th-edition-template-jkw.docx)
+>
+> **Separate Tables File**: A single Word (.docx) file containing all tables with APA-formatted captions. See the [Tables and Figures Submission Requirements](#tables-and-figures-submission-requirements) section above.
+>
+> **Separate Figure Files**: One image file per figure (TIFF preferred; PNG or high-quality JPEG accepted). See the [Tables and Figures Submission Requirements](#tables-and-figures-submission-requirements) section above.
 
 ## 03. John Massengale Paper
 

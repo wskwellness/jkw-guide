@@ -27,6 +27,15 @@ If you would like to nominate a scholar for consideration, please contact the JK
 
 The manuscript will follow the [APA style guidelines](https://www.apastyle.org/) and JKW formatting guidelines. While the specific topic is at the discretion of the invited scholar, the paper should reflect Dr. Massengale's commitment to advancing the field of physical education and kinesiology.
 
+### Tables and Figures
+
+Invited authors must also follow the JKW tables and figures file submission requirements:
+
+- **Tables**: Submit all tables in a single, separate Word (.docx) file with APA-formatted captions. Do not embed tables in the main manuscript.
+- **Figures**: Submit each figure as a separate image file. Preferred format is TIFF; PNG is accepted for graphs and charts; JPEG is accepted for photographs only at the highest quality setting. Minimum resolution is 300 dpi for photographs and 600 dpi for graphs, charts, and line art.
+
+See the [Submission Guidelines](/submission-guidelines) page for full details.
+
 ### Expected Content
 
 John Massengale Papers typically address one or more of the following:

@@ -56,10 +56,44 @@ The main manuscript should include:
    - Discussion
    - Conclusion
 4. References
+5. Figure captions (listed sequentially after the references, in APA format)
 
 **Length**: 15-page maximum, excluding references, cover page, and abstract.
 
 [Download Manuscript Template](/files/APA-7th-edition-template-jkw.docx)
+
+### Separate Tables File
+
+Submit a **single Microsoft Word (.docx) file** containing all tables. Tables must not be embedded in the main manuscript. Each table must follow APA 7th edition formatting:
+
+- Table number in bold italic above the table (e.g., *Table 1*)
+- Descriptive title in italics immediately below the number (title case)
+- Horizontal rules only (no vertical lines)
+- A *Note.* below the table when abbreviations or additional context are needed
+
+All tables must be referenced by number in the main manuscript text.
+
+### Separate Figure Files
+
+Each figure (graph, chart, or image) must be submitted as a **separate image file** — one file per figure. Do not embed figures in the main manuscript.
+
+**Recommended formats:**
+
+| Format | Best use |
+|--------|----------|
+| **TIFF** (.tif) | All figure types; photographs (preferred) |
+| **PNG** (.png) | Graphs, charts, line art |
+| **JPEG** (.jpg) | Photographs only, at highest quality setting |
+
+**Minimum resolution:**
+
+| Figure type | Minimum DPI |
+|-------------|-------------|
+| Photographs / halftones | 300 dpi |
+| Graphs, charts, line art | 600 dpi |
+| Combination figures | 600 dpi |
+
+Name each file with the figure number (e.g., `figure1.tif`, `figure2.png`). Resolution must be at the final printed size. Images from websites (typically 72 dpi) and default PowerPoint exports are not acceptable.
 
 ## Publication Process
 
