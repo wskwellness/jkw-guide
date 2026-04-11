@@ -76,7 +76,7 @@ Example:
 
 While the templates are designed to meet all JKW formatting requirements, you may need to make minor modifications based on your specific content:
 
-- **Tables and Figures**: Insert these at appropriate locations within the manuscript
+- **Tables and Figures**: Ensure tables are placed at the end of the manuscript after references, and do not embed figures (submit figures as separate image files).
 - **Heading Levels**: Adjust the heading structure based on the organization of your paper
 - **References**: Format according to APA style for your specific reference types
 
