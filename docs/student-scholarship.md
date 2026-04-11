@@ -1,11 +1,11 @@
 ---
 sidebar_position: 4
-title: Student Scholarship
+title: Student-Led Research
 ---
 
-# Student Scholarship
+# Student-Led Research
 
-The Special Student Edition of the Journal of Kinesiology and Wellness aims to feature student (undergraduate and graduate) scholarly work. This section provides a valuable opportunity for students to publish their research with proper guidance from established scholars.
+The Student-Led Research section of the Journal of Kinesiology and Wellness aims to feature student (undergraduate and graduate) scholarly work. This section provides a valuable opportunity for students to publish their research with proper guidance from established scholars.
 
 ## Authorship Requirements
 
@@ -35,9 +35,15 @@ As part of the peer review, the following areas will be evaluated:
 
 ## Manuscript Structure
 
-### Separate Cover Page
+### Cover Letter
 
-Your manuscript submission must include a separate cover page with the following information:
+Your submission must include a separate cover letter addressed to the Editor-in-Chief. This letter should introduce the submission, confirm that the research is original and not under consideration elsewhere, verify the lead author's student status, and include an endorsement statement from a co-author holding a terminal degree.
+
+[Download Cover Letter Template](/files/cover-letter-template-jkw.docx)
+
+### Title Page
+
+Your manuscript submission must include a separate title page with the following information:
 
 1. Title of paper
 2. Name of Author(s) and order of contribution
@@ -50,37 +56,36 @@ Your manuscript submission must include a separate cover page with the following
 9. Statement that indicates the research is original and has not been published elsewhere
 10. **A statement that indicates the first author is a student (undergraduate or graduate) and identifies which of the other authors has a terminal degree and endorses the manuscript**
 
-[Download Cover Page Template](/files/APA-7th-edition-template-cover-jkw.docx)
+[Download Title Page Template](/files/title-page-template-jkw.docx)
 
-### Main Manuscript
+### Blinded Manuscript
 
-The main manuscript should include:
+The main manuscript should be blinded (no author identifiers) and include:
 
 1. Title of paper (**no authors listed**)
-2. Abstract (250 words or less)
-3. Main body with the following heading order:
-   - Introduction
+2. Abstract (250 words or less, formatted with structured headings such as Methods, Results, etc.)
+3. Main body with the following heading order (Note: APA does not use "Introduction" as a heading):
    - Methods (or headings to fit a descriptive-type paper)
    - Results (or headings to fit a descriptive type paper)
    - Discussion
    - Conclusion
 4. References
-5. Figure captions (listed sequentially after the references, in APA format)
+5. Tables (placed after references, with APA-formatted captions on top)
+6. Figure captions (listed sequentially after the tables, in APA format)
 
 **Length**: 10-page maximum, excluding references, cover page, and abstract.
 
 [Download Manuscript Template](/files/APA-7th-edition-template-jkw.docx)
 
-### Separate Tables File
+### Tables
 
-Submit a **single Microsoft Word (.docx) file** containing all tables. Tables must not be embedded in the main manuscript. Each table must follow APA 7th edition formatting:
+Tables must be created using Word's built-in table features (do not paste tables as images). They should be added towards the **end of the main manuscript file** (after the references), rather than submitted as a separate document. Do not embed tables within the main text flow. Each table must follow APA 7th edition formatting:
 
-- Table number in bold italic above the table (e.g., *Table 1*)
+- Authors must clearly indicate within the main text where each table should be placed (e.g., *[Insert Table 1 here]*).
+- Provide captions on the top of each table. Each table must have a **number** (e.g., **Table 1**, **Table 2**) in bold, placed above the table on its own line.
 - Descriptive title in italics immediately below the number (title case)
 - Horizontal rules only (no vertical lines)
 - A *Note.* below the table when abbreviations or additional context are needed
-
-All tables must be referenced by number in the main manuscript text.
 
 ### Separate Figure Files
 
@@ -110,7 +115,7 @@ All accepted papers will be published online shortly after being accepted. The J
 
 ## Benefits for Student Authors
 
-Publishing in the Student Scholarship section offers several benefits for student researchers:
+Publishing in the Student-Led Research section offers several benefits for student researchers:
 
 1. **Professional Development**: Gain experience with the scholarly publication process
 2. **CV Enhancement**: Add a peer-reviewed publication to your curriculum vitae

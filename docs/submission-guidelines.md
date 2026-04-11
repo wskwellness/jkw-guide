@@ -8,28 +8,40 @@ title: Submission Guidelines
 
 The JKW accepts submissions on a rolling basis. As an online journal, the JKW publishes papers after they are accepted rather than waiting for a full volume to be completed before publishing. Full volumes are compiled and published once a year in January.
 
-The JKW consists of (a) **Article Manuscripts** - scholarly papers based on original research (experimental, qualitative, descriptive, and historical), (b) **Article Manuscripts (Student Scholarship)** - reserved for student-led scholarly papers based on original research, (c) **John Massengale Paper -** invitation-only John Massengale Papers, and (d) the **WSKW Chronicles -** which include conference materials.
+Papers are published under these sections:
+- **[Experimental & Quantitative Research](#01-research-articles-experimental-qualitative-systematic-reviews)**: consists of scholarly papers based on original quantitative research (experimental or observational).
+- **[Qualitative & Mixed-Methods Research](#01-research-articles-experimental-qualitative-systematic-reviews)**: consists of scholarly papers using qualitative or mixed-methods approaches.
+- **[Systematic Reviews & Meta-Analyses](#01-research-articles-experimental-qualitative-systematic-reviews)**: includes systematic reviews (with or without meta-analysis) and related evidence syntheses.
+- **[Student-Led Research](#02-student-led-research)**: reserved for scholarly papers in which a student (undergraduate or graduate) is the lead author.
+- **[John Massengale Paper](#03-john-massengale-paper)**: an exclusive publication written by a distinguished scholar.
+- **WSKW Chronicles**: post-conference proceedings, such as conference abstracts.
 
 ## Formatting guidelines for all manuscripts
 
 1. All manuscripts must be written in English. For scholars in which English is an additional language, please seek assistance from colleagues with experience publishing in English-language journals before submitting a manuscript.
 2. Microsoft Word submission.
 3. Follow APA style, current edition.
-   1. [Click here for a guide](https://www.scribbr.com/apa-style/format/)
-   2. [Click here for a template](/files/APA-7th-edition-template-jkw.docx)
-   3. [Click here for sample papers](https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers)
+   
+   **Quick APA Formatting Guide:**
+   - **Margins**: 1 inch on all sides
+   - **Font**: 12-point Times New Roman (or similar approved APA font)
+   - **Line spacing**: Double-spaced throughout
+   - **Paragraph indentation**: 0.5 inches
+   - For complete details, see our internal [Comprehensive APA Style Guide](/apa-style-guide).
+
+   [Click here to download the Manuscript Template](/files/APA-7th-edition-template-jkw.docx)
 
 ## Tables and Figures Submission Requirements
 
 ### Tables
 
-All tables must be submitted as a **separate Microsoft Word (.docx) file**. Do not embed tables within the main manuscript. The tables file must follow APA 7th edition formatting:
+All tables must be created using Word's built-in table features (do not paste tables as images). They must be added towards the **end of the main manuscript file** (after the references), rather than submitted as a separate document. Do not embed tables within the main text flow. The tables must follow APA 7th edition formatting:
 
-- Each table must have a **number** (e.g., *Table 1*, *Table 2*) in bold italic, placed above the table on its own line.
+- Authors must clearly indicate within the main text where each table should be placed (e.g., *[Insert Table 1 here]*).
+- Provide captions on the top of each table. Each table must have a **number** (e.g., **Table 1**, **Table 2**) in bold, placed above the table on its own line.
 - Immediately below the table number, include a **descriptive title** in italics, in title case, on its own line (e.g., *Descriptive Statistics for All Study Variables*).
 - A **note** may appear below the table when needed to explain abbreviations, symbols, or provide additional context. Begin with the word *Note.* in italics, followed by a period, then the note text in regular typeface.
 - Tables should use only horizontal rules (no vertical lines) — one rule below the column headers and one at the bottom of the table.
-- All tables must be referenced by number in the main manuscript text (e.g., "as shown in Table 1").
 
 ### Figures (Graphs, Charts, and Images)
 
@@ -55,7 +67,7 @@ Each figure must be submitted as a **separate image file** — one file per figu
 
 Resolution must be measured at the **final printed size**, not at a reduced preview size. Images downloaded from websites (typically 72 dpi) are not acceptable for publication. Figures exported directly from PowerPoint are also generally not acceptable due to insufficient default export resolution.
 
-**Figure captions** must be included in the main manuscript (not in the image file itself), listed sequentially at the end of the manuscript, after the references. Each caption must follow APA format:
+**Figure captions** and any notes must be included in the main manuscript (not in the image file itself), listed sequentially at the end of the manuscript, after the tables. Each caption must follow APA format:
 
 - The figure number appears in bold (e.g., **Figure 1**)
 - Immediately after the figure number (on the same line), include the figure title in italics, followed by a period
@@ -63,35 +75,41 @@ Resolution must be measured at the **final printed size**, not at a reduced prev
 
 **File naming convention:** Name each figure file with the manuscript identifier and figure number (e.g., `figure1.tif`, `figure2.png`).
 
-## 01. Article Manuscripts
+## 01. Research Articles (Experimental, Qualitative, Systematic Reviews)
 
 Submitted manuscripts will be subject to a blind peer-review process. Papers for consideration should not have been published elsewhere. **WSKW Membership is not required.** As part of the peer review, the following areas will be evaluated: (a) original contribution, (b) clear purpose, (c) clear methodology or logical arguments, (d) sound data analyses or supported arguments, (e) conclusion and implications, (f) accurate grammar, tone, use of English, (g) sound writing (sentence/paragraph structure), (h) use of current [APA Style](https://www.apastyle.org/), and (i) relevance of tables and figures.
 
-> **Separate Cover Page:** (1) Title of paper, (2) Name of Author(s) and order of contribution, (2) Author(s) affiliation, (3) Date of submission, (4) Author contact information (Name, address, phone, e-mail, and ORCID), (5) Funding (if any), (6) Acknowledgements (if any), (7) Conflict of interest (if any), and (8) Statement that indicates the research is original. The paper has not been published elsewhere.
-> [Click here for a template](/files/APA-7th-edition-template-cover-jkw.docx)
+> **Cover Letter:** A separate document addressed to the Editor-in-Chief briefly outlining the significance of the research, confirming that the manuscript is original and not under consideration elsewhere, and disclosing any conflicts of interest.
+> [Click here for a template](/files/cover-letter-template-jkw.docx)
 >
-> **Manuscript**: (1) Title of paper (**no authors listed**), (2) Abstract (250 words or less), (3) Main heading order: Introduction; Methods or headings to fit a descriptive-type paper; Results or headings to fit a descriptive type paper; Discussion; Conclusion, and (4) References. Figure captions should be listed at the end of the manuscript after the references.
+> **Title Page:** (1) Title of paper, (2) Name of Author(s) and order of contribution, (3) Author(s) affiliation, (4) Date of submission, (5) Author contact information (Name, address, phone, e-mail, and ORCID), (6) Funding (if any), (7) Acknowledgements (if any), (8) Conflict of interest (if any), and (9) Statement that indicates the research is original. The paper has not been published elsewhere.
+> [Click here for a template](/files/title-page-template-jkw.docx)
+>
+> **Blinded Manuscript**: (1) Title of paper (**no authors listed**), (2) Abstract (250 words or less, formatted with structured headings such as Methods, Results, etc.), (3) Main heading order: Methods or headings to fit a descriptive-type paper; Results or headings to fit a descriptive type paper; Discussion; Conclusion, and (4) References. Tables should follow references, and figure captions should be listed after the tables.
 > Length: 15-page maximum, excluding references, cover page, and abstract.
 > *Note: All accepted papers will be published online shortly after being accepted.*
 > [Click here for a template](/files/APA-7th-edition-template-jkw.docx)
 >
-> **Separate Tables File**: A single Word (.docx) file containing all tables with APA-formatted captions. See the [Tables and Figures Submission Requirements](#tables-and-figures-submission-requirements) section above.
+> **Tables**: Place all tables towards the end of the main manuscript file, with APA-formatted captions on the top. Authors must indicate in the text where tables should appear. See the [Tables and Figures Submission Requirements](#tables-and-figures-submission-requirements) section above.
 >
 > **Separate Figure Files**: One image file per figure (TIFF preferred; PNG or high-quality JPEG accepted). See the [Tables and Figures Submission Requirements](#tables-and-figures-submission-requirements) section above.
 
-## 02. Article Manuscripts (Student Scholarship)
+## 02. Student-Led Research
 
-The Special Student Edition aims to feature student (undergraduate and graduate) scholarly work. A student must be **the first author of the manuscript submission. It is also mandatory that the manuscript be endorsed by someone holding a terminal degree, and the endorsee must be included as an author.** Submitted manuscripts will be subject to a blind peer-review process. Papers for consideration should not have been published elsewhere. **WSKW Membership is not required.** As part of the peer review, the following areas will be evaluated: (a) original contribution, (b) clear purpose, (c) clear methodology or logical arguments, (d) sound data analyses or supported arguments, (e) conclusion and implications, (f) accurate grammar, tone, use of English, (g) sound writing (sentence/paragraph structure), (h) use of current [APA Style](https://www.apastyle.org/), and (i) relevance of tables and/or figures.
+The Student-Led Research section aims to feature student (undergraduate and graduate) scholarly work. A student must be **the first author of the manuscript submission. It is also mandatory that the manuscript be endorsed by someone holding a terminal degree, and the endorsee must be included as an author.** Submitted manuscripts will be subject to a blind peer-review process. Papers for consideration should not have been published elsewhere. **WSKW Membership is not required.** As part of the peer review, the following areas will be evaluated: (a) original contribution, (b) clear purpose, (c) clear methodology or logical arguments, (d) sound data analyses or supported arguments, (e) conclusion and implications, (f) accurate grammar, tone, use of English, (g) sound writing (sentence/paragraph structure), (h) use of current [APA Style](https://www.apastyle.org/), and (i) relevance of tables and/or figures.
 
-> **Separate Cover Page**: (1) Title of paper, (2) Name of Author(s) and order of contribution, (2) Author(s) affiliation, (3) Date of submission, (4) Author contact information (Name, address, phone, e-mail, and ORCID), (5) Funding (if any), (6) Acknowledgements (if any), (7) Conflict of interest (if any), (8) Statement that indicates the research is original, and the paper has not been published elsewhere, and (9) A statement that indicates the first author is a student (undergraduate or graduate) and identify which of the other authors has a terminal degree and endorses the manuscript.
-> [Click here for a template](/files/APA-7th-edition-template-cover-jkw.docx)
+> **Cover Letter:** A separate document addressed to the Editor-in-Chief introducing the submission, confirming that the research is original and not under consideration elsewhere, verifying the lead author's student status, and including the endorsement from a co-author holding a terminal degree.
+> [Click here for a template](/files/cover-letter-template-jkw.docx)
 >
-> **Manuscript**: (1) Title of paper (no authors listed), (2) Abstract (250 words or less), (3) Main heading order: Introduction; Methods or headings to fit a descriptive-type paper; Results or headings to fit a descriptive type paper; Discussion; Conclusion, and (4) References. Figure captions should be listed at the end of the manuscript after the references.
+> **Title Page**: (1) Title of paper, (2) Name of Author(s) and order of contribution, (3) Author(s) affiliation, (4) Date of submission, (5) Author contact information (Name, address, phone, e-mail, and ORCID), (6) Funding (if any), (7) Acknowledgements (if any), (8) Conflict of interest (if any), (9) Statement that indicates the research is original and hasn't been published elsewhere, and (10) A statement that indicates the first author is a student (undergraduate or graduate) and identifies which of the other authors has a terminal degree and endorses the manuscript.
+> [Click here for a template](/files/title-page-template-jkw.docx)
+>
+> **Blinded Manuscript**: (1) Title of paper (**no authors listed**), (2) Abstract (250 words or less, formatted with structured headings such as Methods, Results, etc.), (3) Main heading order: Methods or headings to fit a descriptive-type paper; Results or headings to fit a descriptive type paper; Discussion; Conclusion, and (4) References. Tables should follow references, and figure captions should be listed after the tables.
 > Length: 10-page maximum, excluding references, cover page, and abstract.
 > *Note: All accepted papers will be published online shortly after being accepted.*
 > [Click here for a template](/files/APA-7th-edition-template-jkw.docx)
 >
-> **Separate Tables File**: A single Word (.docx) file containing all tables with APA-formatted captions. See the [Tables and Figures Submission Requirements](#tables-and-figures-submission-requirements) section above.
+> **Tables**: Place all tables towards the end of the main manuscript file, with APA-formatted captions on the top. Authors must indicate in the text where tables should appear. See the [Tables and Figures Submission Requirements](#tables-and-figures-submission-requirements) section above.
 >
 > **Separate Figure Files**: One image file per figure (TIFF preferred; PNG or high-quality JPEG accepted). See the [Tables and Figures Submission Requirements](#tables-and-figures-submission-requirements) section above.
 
