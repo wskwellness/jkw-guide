@@ -36,7 +36,7 @@ The actual manuscript document must begin with a blinded title page:
 - Limited to 250 words or less
 - Placed on a separate page immediately following the blinded title page (Page 2)
 - Headed with the centered label "Abstract" (bold)
-- Should be formatted with structured headings (e.g., **Methods**, **Results**, etc.)
+- Should be formatted **without** structured headings (e.g., **Methods**, **Results**, etc.)
 - Should include: research problem, participants, methods, findings, and implications
 
 ## Main Body
