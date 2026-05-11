@@ -7,6 +7,10 @@ title: Research Articles
 
 Research Articles are scholarly papers based on original research, including experimental, qualitative, descriptive, and historical studies, or systematic reviews. These manuscripts form the core content of the Journal of Kinesiology and Wellness.
 
+**Page limit**: 15 pages maximum, excluding references, cover page, and abstract.
+
+**Abstract word limit**: 250 words maximum.
+
 ## Submission Requirements
 
 Submitted manuscripts will be subject to a blind peer-review process. Papers for consideration should not have been published elsewhere. **WSKW Membership is not required.** 
@@ -64,7 +68,9 @@ The main manuscript should be blinded (no author identifiers) and include:
 5. Tables (placed after references, with APA-formatted captions on top)
 6. Figure captions (listed sequentially after the tables, in APA format)
 
-**Length**: 15-page maximum, excluding references, cover page, and abstract.
+**Page limit**: 15 pages maximum, excluding references, cover page, and abstract.
+
+**Abstract word limit**: 250 words maximum.
 
 [Download Manuscript Template](/files/APA-7th-edition-template-jkw.docx)
 

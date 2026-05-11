@@ -52,6 +52,12 @@ To get started with your submission:
 3. Ensure all required components (cover page, abstract, etc.) are included
 4. Submit your manuscript through the official submission process
 
+## Page Limits and Word Limits
+
+- **Research Articles page limit**: 15 pages maximum, excluding references, cover page, and abstract.
+- **Student-Led Research page limit**: 10 pages maximum, excluding references, cover page, and abstract.
+- **Abstract word limit**: 250 words maximum.
+
 ## Key Deadlines
 
 - **Rolling submissions**: Manuscripts are accepted year-round

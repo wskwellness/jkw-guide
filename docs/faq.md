@@ -41,6 +41,8 @@ No, the JKW only considers original manuscripts that have not been previously pu
 
 ## Manuscript Preparation
 
+If you searched for `page limit` or `word limit`, the main limits are here: Research Articles have a 15-page limit, Student-Led Research manuscripts have a 10-page limit, and abstracts have a 250-word limit.
+
 <details>
 <summary>What is the maximum length for manuscripts?</summary>
 
@@ -48,9 +50,21 @@ Article Manuscripts should be a maximum of 15 pages, excluding references, cover
 </details>
 
 <details>
+<summary>What is the page limit for Research Articles and Student-Led Research manuscripts?</summary>
+
+The Research Articles page limit is 15 pages maximum, excluding references, cover page, and abstract. The Student-Led Research page limit is 10 pages maximum, excluding references, cover page, and abstract.
+</details>
+
+<details>
+<summary>What is the abstract word limit?</summary>
+
+The abstract word limit is 250 words maximum.
+</details>
+
+<details>
 <summary>Do I need to include a cover page?</summary>
 
-Yes, all submissions must include a separate cover page with the required information. Please use the [Download Cover Page Template](/files/APA-7th-edition-template-cover-jkw.docx).
+Yes, all submissions must include a separate title page with the required information. Please use the [Download Title Page Template](/files/title-page-template-jkw.docx).
 </details>
 
 <details>

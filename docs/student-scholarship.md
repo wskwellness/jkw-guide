@@ -7,6 +7,10 @@ title: Student-Led Research
 
 The Student-Led Research section of the Journal of Kinesiology and Wellness aims to feature student (undergraduate and graduate) scholarly work. This section provides a valuable opportunity for students to publish their research with proper guidance from established scholars.
 
+**Page limit**: 10 pages maximum, excluding references, cover page, and abstract.
+
+**Abstract word limit**: 250 words maximum.
+
 ## Authorship Requirements
 
 For student scholarship submissions, the following requirements must be met:
@@ -73,7 +77,9 @@ The main manuscript should be blinded (no author identifiers) and include:
 5. Tables (placed after references, with APA-formatted captions on top)
 6. Figure captions (listed sequentially after the tables, in APA format)
 
-**Length**: 10-page maximum, excluding references, cover page, and abstract.
+**Page limit**: 10 pages maximum, excluding references, cover page, and abstract.
+
+**Abstract word limit**: 250 words maximum.
 
 [Download Manuscript Template](/files/APA-7th-edition-template-jkw.docx)
 

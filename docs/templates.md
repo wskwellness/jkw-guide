@@ -7,6 +7,12 @@ title: Templates
 
 The Journal of Kinesiology and Wellness (JKW) provides templates to help authors prepare their manuscripts according to the required format. Using these templates ensures consistency and helps streamline the submission process.
 
+## Page Limits and Word Limits
+
+- **Research Articles page limit**: 15 pages maximum, excluding references, cover page, and abstract.
+- **Student-Led Research page limit**: 10 pages maximum, excluding references, cover page, and abstract.
+- **Abstract word limit**: 250 words maximum.
+
 ## Available Templates
 
 ### Cover Letter Template
@@ -44,6 +50,8 @@ The manuscript template is pre-formatted according to APA style guidelines and s
 - Main body with suggested heading structure
 - References section
 - Properly formatted page numbers, margins, and font settings
+
+The template does not override the journal's page limit requirements. Keep your manuscript within the applicable page limit for your submission type and keep the abstract within the 250-word limit.
 
 [Download Manuscript Template](/files/APA-7th-edition-template-jkw.docx)
 

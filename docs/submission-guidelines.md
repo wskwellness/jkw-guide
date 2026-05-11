@@ -8,6 +8,12 @@ title: Submission Guidelines
 
 The JKW accepts submissions on a rolling basis. As an online journal, the JKW publishes papers after they are accepted rather than waiting for a full volume to be completed before publishing. Full volumes are compiled and published once a year in January.
 
+## Page Limits and Word Limits
+
+- **Research Articles page limit**: 15 pages maximum, excluding references, cover page, and abstract.
+- **Student-Led Research page limit**: 10 pages maximum, excluding references, cover page, and abstract.
+- **Abstract word limit**: 250 words maximum.
+
 Papers are published under these sections:
 - **[Experimental & Quantitative Research](#01-research-articles-experimental-qualitative-systematic-reviews)**: consists of scholarly papers based on original quantitative research (experimental or observational).
 - **[Qualitative & Mixed-Methods Research](#01-research-articles-experimental-qualitative-systematic-reviews)**: consists of scholarly papers using qualitative or mixed-methods approaches.
@@ -86,7 +92,8 @@ Submitted manuscripts will be subject to a blind peer-review process. Papers for
 > [Click here for a template](/files/title-page-template-jkw.docx)
 >
 > **Blinded Manuscript**: (1) Title of paper (**no authors listed**), (2) Abstract (250 words or less, formatted with structured headings such as Methods, Results, etc.), (3) Main heading order: Methods or headings to fit a descriptive-type paper; Results or headings to fit a descriptive type paper; Discussion; Conclusion, and (4) References. Tables should follow references, and figure captions should be listed after the tables.
-> Length: 15-page maximum, excluding references, cover page, and abstract.
+> **Page limit**: 15 pages maximum, excluding references, cover page, and abstract.
+> **Abstract word limit**: 250 words maximum.
 > *Note: All accepted papers will be published online shortly after being accepted.*
 > [Click here for a template](/files/APA-7th-edition-template-jkw.docx)
 >
@@ -105,7 +112,8 @@ The Student-Led Research section aims to feature student (undergraduate and grad
 > [Click here for a template](/files/title-page-template-jkw.docx)
 >
 > **Blinded Manuscript**: (1) Title of paper (**no authors listed**), (2) Abstract (250 words or less, formatted with structured headings such as Methods, Results, etc.), (3) Main heading order: Methods or headings to fit a descriptive-type paper; Results or headings to fit a descriptive type paper; Discussion; Conclusion, and (4) References. Tables should follow references, and figure captions should be listed after the tables.
-> Length: 10-page maximum, excluding references, cover page, and abstract.
+> **Page limit**: 10 pages maximum, excluding references, cover page, and abstract.
+> **Abstract word limit**: 250 words maximum.
 > *Note: All accepted papers will be published online shortly after being accepted.*
 > [Click here for a template](/files/APA-7th-edition-template-jkw.docx)
 >
