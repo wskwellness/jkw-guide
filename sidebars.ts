@@ -65,6 +65,11 @@ const sidebars: SidebarsConfig = {
         },
         {
           type: 'doc',
+          id: 'author-biographies',
+          label: 'Author Biographies',
+        },
+        {
+          type: 'doc',
           id: 'faq',
           label: 'FAQ',
         },
