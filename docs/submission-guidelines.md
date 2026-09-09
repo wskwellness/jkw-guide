@@ -6,6 +6,10 @@ title: Submission Guidelines
 [Make a submission by clicking here.](https://jkw.wskw.org/index.php/jkw/about/submissions)
 :::
 
+:::caution First-time submitters: request an author account first
+Public self-registration is disabled on the submission system. Before you can submit, email the Editor-in-Chief at [ovandef@csun.edu](mailto:ovandef@csun.edu) to request an author account. Include your full name, institutional affiliation, preferred email address, a brief manuscript title or topic, and your ORCID iD (or [register for one free](https://orcid.org/register)). Once approved, you'll receive login instructions for the submission system.
+:::
+
 The JKW accepts submissions on a rolling basis. As an online journal, the JKW publishes papers after they are accepted rather than waiting for a full volume to be completed before publishing. Full volumes are compiled and published once a year in January.
 
 ## Page Limits and Word Limits

@@ -28,6 +28,12 @@ Manuscripts should be submitted electronically to the JKW Editor. Please prepare
 </details>
 
 <details>
+<summary>Do I need an account before I can submit?</summary>
+
+Yes. The submission system has public self-registration disabled, so first-time authors cannot create their own account. Email the Editor-in-Chief at [ovandef@csun.edu](mailto:ovandef@csun.edu) to request one, including your full name, institutional affiliation, preferred email address, a brief manuscript title or topic, and your ORCID iD. Once approved, the Journal Manager will create your account and send you login instructions.
+</details>
+
+<details>
 <summary>What file format should I use for my submission?</summary>
 
 All manuscripts should be submitted as Microsoft Word documents (.doc or .docx).

@@ -47,10 +47,11 @@ Authors can deposit all versions of their work, including submitted, accepted, a
 
 To get started with your submission:
 
-1. Review the [Submission Guidelines](submission-guidelines) for detailed information on formatting and requirements
-2. Prepare your manuscript according to the current APA style guidelines
-3. Ensure all required components (cover page, abstract, etc.) are included
-4. Submit your manuscript through the official submission process
+1. **Request an author account.** The submission system does not allow public self-registration. Email the Editor-in-Chief at [ovandef@csun.edu](mailto:ovandef@csun.edu) with your full name, institutional affiliation, preferred email address, a brief manuscript title or topic, and your ORCID iD to have an account created for you.
+2. Review the [Submission Guidelines](submission-guidelines) for detailed information on formatting and requirements
+3. Prepare your manuscript according to the current APA style guidelines
+4. Ensure all required components (cover page, abstract, etc.) are included
+5. Submit your manuscript through the [official submission process](https://jkw.wskw.org/index.php/jkw/about/submissions)
 
 ## Page Limits and Word Limits
 
